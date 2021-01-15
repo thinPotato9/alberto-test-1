@@ -1,0 +1,5 @@
+site_name: kuyAmbis
+nav:
+  - Home: index.md
+  - About: Halaman2.md
+theme: readthedocs
